@@ -4,4 +4,6 @@ Repozytorium nauka gita
 
 Zawartość:
 - podstawy python
-- generowanie danych testowych 
+- generowanie danych testowych
+
+  Data utworzeia: 7.12.2024
